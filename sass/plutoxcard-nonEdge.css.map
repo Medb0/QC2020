@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;;;;;;;;;;;;;;;GAiBG;AIdH,AAAA,GAAG,CAAC;EDCF,KAAK,EFDS,IAAI;EEElB,MAAM,EFCa,GAAG,CAED,GAAG,CACJ,GAAG;EEHvB,YAAY,ECFE,GAAG;EDGjB,YAAY,EAAE,MAAM;EACpB,OAAO,EFHS,GAAG;EEuBjB,UAAU,EDpBF,OAAgB;CEF3B",
+    "sources": [
+        "plutoxcard-nonEdge.scss",
+        "_variables.scss",
+        "_color.scss",
+        "_mixin.scss",
+        "_main.scss",
+        "_non-edge.scss"
+    ],
+    "names": [],
+    "file": "plutoxcard-nonEdge.css"
+}

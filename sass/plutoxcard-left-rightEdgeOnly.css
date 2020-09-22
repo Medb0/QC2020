@@ -1,0 +1,62 @@
+/*
+ * @package	PlutoX-Card v0.1.0(beta1)
+ * @author	DongWook Synn
+ * @copyright	Copyright (c) 1999 - 2018, BizData Inc. (https://bizdata.co.kr/)
+ * @copyright	Copyright (c) 1999 - 2018, DongWook Synn (http://woogeeya.com/)
+ * @license	http://opensource.org/licenses/MIT	MIT License
+ * @link	https://bizdata.co.kr
+ *
+ *---------------------------------------------------------------
+ * PlutoX-Card All items
+ *---------------------------------------------------------------
+ *
+ * file location : /sass/plutoxcard.scss
+ * Last Updata : February 26. 2018
+ * Created Date : February 08. 2018
+ *
+ * NOTE:
+ */
+.qc {
+  width: 100%;
+  margin: 1em 1em 1em;
+  border-width: 1px;
+  border-style: dashed;
+  padding: 1em;
+  background: #007bff;
+}
+
+.lr-edge-blue {
+  border-left-width: 30px;
+  border-right-width: 30px;
+}
+
+.lr-edge-purple {
+  border-left-width: 30px;
+  border-right-width: 30px;
+}
+
+.lr-edge-red {
+  border-left-width: 30px;
+  border-right-width: 30px;
+}
+
+.lr-edge-yellow {
+  border-left-width: 30px;
+  border-right-width: 30px;
+}
+
+.lr-edge-green {
+  border-left-width: 30px;
+  border-right-width: 30px;
+}
+
+.lr-edge-gray {
+  border-left-width: 30px;
+  border-right-width: 30px;
+}
+
+.lr-edge-dark {
+  border-left-width: 30px;
+  border-right-width: 30px;
+}
+/*# sourceMappingURL=plutoxcard-left-rightEdgeOnly.css.map */

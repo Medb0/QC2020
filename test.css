@@ -1,0 +1,12 @@
+.container {
+  width: 100%;
+}
+
+.container .wrapper {
+  color: red;
+}
+
+.container .wrapper h1 {
+  color: #000;
+}
+/*# sourceMappingURL=test.css.map */

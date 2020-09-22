@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;;;;;;;;;;;;;;;GAiBG;AIdH,AAAA,GAAG,CAAC;EDCF,KAAK,EFDS,IAAI;EEElB,MAAM,EFCa,GAAG,CAED,GAAG,CACJ,GAAG;EEHvB,YAAY,ECFE,GAAG;EDGjB,YAAY,EAAE,MAAM;EACpB,OAAO,EFHS,GAAG;EEuBjB,UAAU,EDpBF,OAAgB;CEF3B;;ACHD,AAAA,iBAAiB,CAAC;EFqBhB,mBAAmB,EEnBE,IAAI;CAC1B;;AACD,AAAA,mBAAmB,CAAC;EFiBlB,mBAAmB,EEfE,IAAI;CAC1B;;AACD,AAAA,gBAAgB,CAAC;EFaf,mBAAmB,EEXE,IAAI;CAC1B;;AACD,AAAA,mBAAmB,CAAC;EFSlB,mBAAmB,EEPE,IAAI;CAC1B;;AACD,AAAA,kBAAkB,CAAC;EFKjB,mBAAmB,EEHE,IAAI;CAC1B;;AACD,AAAA,iBAAiB,CAAC;EFChB,mBAAmB,EECE,IAAI;CAC1B;;AACD,AAAA,iBAAiB,CAAC;EFHhB,mBAAmB,EEKE,IAAI;CAC1B",
+    "sources": [
+        "plutoxcard-bottomEdgeOnly.scss",
+        "_variables.scss",
+        "_color.scss",
+        "_mixin.scss",
+        "_main.scss",
+        "_bottom-edge.scss"
+    ],
+    "names": [],
+    "file": "plutoxcard-bottomEdgeOnly.css"
+}

@@ -1,37 +1,48 @@
-// Alpa value
-$detec: 1.0;
-$alpa: 0.3;
-$clocking: 0.25;
+//---------------------------------------------------------------
+// Color define SCSS
+//---------------------------------------------------------------
 
-//default color
-$blue: rgb(0,123,255) !default;
-$purple: rgb(110,65,193) !default;
-$red: rgb(221,53,69) !default;
-$yellow: rgb(255,193,6) !default;
-$green: rgb(40,167,69) !default;
+// Optical range
+$optical: .2;
 
-// gray
-$gray: rgb(108,117,125) !default;
-$dart: rgb(52,58,64) !default;
+// default color
+$pocari:    rgb(0, 123, 255) !default;
+$welchs:  rgb(110, 65, 193) !default;
+$coka:     rgb(221, 53, 69) !default;
+$fanta:  rgb(255, 125, 6) !default;
+$mtndew:   rgb(40, 167, 69) !default;
+$stainless:    rgb(108, 117, 125) !default;
+$guinness:    rgb(52, 58, 64) !default;
 
-// bright
-$white: rgb(255,255,255) !default;
-$black: rgb(0,0,0) !default;
+$siro:   rgb(255, 255, 255) !default;
+$kuro:   rgb(0, 0, 0) !default;
 
-// background
-$bg-blue: rgba($blue, $alpa) !default;
-$bg-purple: rgba($purple, $alpa) !default;
-$bg-red: rgba($red, $alpa) !default;
-$bg-yellow: rgba($yellow, $alpa) !default;
-$bg-green: rgba($green, $alpa) !default;
+// background color
+$bg-pocari:    rgba($pocari, $optical) !default;
+$bg-welchs:  rgba($welchs, $optical) !default;
+$bg-coka:     rgba($coka, $optical) !default;
+$bg-fanta:  rgba($fanta, $optical) !default;
+$bg-mtndew:   rgba($mtndew, $optical) !default;
+$bg-stainless:    rgba($stainless, $optical) !default;
+$bg-guinness:    rgba($guinness, $optical) !default;
 
 // default color array
-$default-color:(
-    'blue': $blue,
-    'purple': $purple,
-    'red': $red,
-    'yellow': $yellow,
-    'green': $green
-)
-
+$default-color: (
+  'pocari': $pocari,
+  'welchs': $welchs,
+  'coka': $coka,
+  'fanta': $fanta,
+  'mtndew': $mtndew,
+  'stainless': $stainless,
+  'guinness': $guinness
+);
 // background color array
+$background-color: (
+  'pocari': $bg-pocari,
+  'welchs': $bg-welchs,
+  'coka': $bg-coka,
+  'fanta': $bg-fanta,
+  'mtndew': $bg-mtndew,
+  'stainless': $bg-stainless,
+  'guinness': $bg-guinness
+);
