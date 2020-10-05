@@ -8,21 +8,11 @@
   border-style: dashed;
   padding: $default-padding;
 }
-@mixin edge-color($edge-color) {
-  background-color: map-get($background-color, $edge-color);
-  border-color: map-get($default-color, $edge-color);
-}
-@mixin edge-left($edge-width) {
-  border-left-width: $edge-width;
-}
-@mixin edge-right($edge-width) {
-  border-right-width: $edge-width;
-}
-@mixin edge-top($edge-width) {
-  border-top-width: $edge-width;
-}
-@mixin edge-bottom($edge-width) {
-  border-bottom-width: $edge-width;
+@mixin base_sub($sub_position, $top, $left, $qc-font) {
+  position: $sub_position;
+  top: $top;
+  left: $left;
+  font-family: $qc-font;
 }
 
 @mixin color-select($select-color){
