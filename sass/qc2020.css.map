@@ -1,11 +1,12 @@
 {
     "version": 3,
-    "mappings": "AIGA,AAAA,GAAG,CAAC;EDCF,KAAK,EDDS,IAAI;ECElB,MAAM,EDCa,GAAG,CAED,GAAG,CACJ,GAAG,CAFD,GAAG;ECDzB,YAAY,ECFE,GAAG;EDGjB,YAAY,EAAE,MAAM;EACpB,OAAO,EDHS,GAAG;ECuBjB,UAAU,EFpBF,OAAgB;CGF3B",
+    "mappings": "AIiBA,OAAO,CAAC,8EAAI;ACdZ,AAAA,GAAG,CAAC;EFCF,KAAK,EDDS,IAAI;ECElB,MAAM,EDCa,GAAG,CAED,GAAG,CACJ,GAAG,CAFD,GAAG;ECDzB,YAAY,EEFE,GAAG;EFGjB,YAAY,EAAE,MAAM;EACpB,OAAO,EDHS,GAAG;ECuBjB,UAAU,EFpBF,OAAgB;CIF3B",
     "sources": [
         "qc2020.scss",
         "_color.scss",
         "_variables.scss",
         "_mixin.scss",
+        "_typograph.scss",
         "_main.scss"
     ],
     "names": [],
